@@ -16,6 +16,6 @@
 
 ## Objectif 
 
-* Lier le microcontrôleur et le capteur
-* Collecter et envoyer la température, la pression et l'altitude
-* Envoyer les données à un serveur MQTT
+* Lier le microcontrôleur et le capteur.
+* Collecter des données : la température, la pression atmosphérique et l'altitude.
+* Envoyer les données à un serveur MQTT.
