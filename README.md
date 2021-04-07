@@ -1,3 +1,4 @@
+# IoT
 💡 Utilisation du capteur BMP280 et du microcontrôleur ESP12E
 
 📚 Projet de E060 (Cours "Internet of Things" de Politechnika Lubelska)
