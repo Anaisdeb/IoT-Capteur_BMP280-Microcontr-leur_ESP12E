@@ -12,7 +12,7 @@
 ## Contenu du répertoire
   
   * Rapport.pdf : rendu du projet
-  * bmp280_project_Anaïs_Anaëlle_Hugo.ino : programme Arduino
+  * bmp280.ino : programme Arduino
 
 ## Objectif 
 
