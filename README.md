@@ -5,9 +5,9 @@
 
 ## Composition de l'équipe de projet
 
-  * Anaïs Débureaux
   * Anaëlle Hennion
   * Hugo Lesobre 
+  * Anaïs Débureaux
   
 ## Contenu du répertoire
   
